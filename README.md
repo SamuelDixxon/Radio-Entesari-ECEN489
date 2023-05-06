@@ -16,7 +16,7 @@
 
 ## Key Takeaways 
 - Lab Practicals
-  - Soldering approximately 50 total through hole components across AM/FM receiver signal paths, potentiometer volume controller/switch, gang capacitor tuners, and antennas
+  - Soldering approximately 50 total through hole components across AM/FM receiver signal paths, potentiometer volume controller/switch, gang capacitor tuners, and conifugirng/tuning two different antennas for AM/FM respective receivers
 - RF Fundamentals
   - Noise Figure
     - Gaussian noise that is non-linear in nature and dominated by the first block of the design. For this reason, in some RF receiver topologies a LNA (Low noise amplifer is used to optimize overall noise figure and SNR, while boosting signal strength at the input)
