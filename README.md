@@ -11,7 +11,7 @@
 
 ## Key Takeaways 
 - Lab Practicals
-  - Soldering approximately 50 total through hole components across AM/FM receiever signal paths, potentiometer volume controller/switch, gang capacitor tuners, and antennas
+  - Soldering approximately 50 total through hole components across AM/FM receiver signal paths, potentiometer volume controller/switch, gang capacitor tuners, and antennas
   
 ## RF Fundamentals
  - Noise Figure
