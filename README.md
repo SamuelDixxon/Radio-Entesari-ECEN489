@@ -1,5 +1,11 @@
 # AM/FM Superheterodyning Radio Entesari ECEN 489 with [ELENCO kit](https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html)
 
+
+## Course Description
+
+![image](https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png)
+
+
 ## Project Description
 - Soldering, testing dynamically and statically, and verifying superheterodyne AM/FM receiver in conjunction with ECEN-489, Wireless Communications course by Dr. Entesari at Texas A&amp;M, and  the ELENCO AM/FM SUPERHET RADIO kit https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html 
 
