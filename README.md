@@ -21,12 +21,12 @@
   - Bandwidth
   
 ## Design Tradeoffs
-    - Foster Seely vs. Ratio Detector
-    - Various circuit methods of AM / FM demodulation
-    - Problem of filtering image at output of mixer stage
-    - High Q vs. Bandwidth
-    - AM Antenna utilizes ferrite core whereas FM Antenna utilizes monopole topology
-      - AM RF is lower with a longer wavelength so impractical to implement with monopole antenna and must use ferrite core with magentic design
-      - FM RF is higher with a lower wavelength so practical to implement with monpole antenna for receiving RF signals across air
+- Foster Seely vs. Ratio Detector
+- Various circuit methods of AM / FM demodulation
+- Problem of filtering image at output of mixer stage
+- High Q vs. Bandwidth
+- AM Antenna utilizes ferrite core whereas FM Antenna utilizes monopole topology
+  - AM RF is lower with a longer wavelength so impractical to implement with monopole antenna and must use ferrite core with magentic design
+  - FM RF is higher with a lower wavelength so practical to implement with monpole antenna for receiving RF signals across air
   
   
