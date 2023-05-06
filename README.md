@@ -1,7 +1,9 @@
 # [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiever 
 
 ## Credits
-- Dr. Entesari 
+- Dr. Entesari
+  - [Tamu Page](https://engineering.tamu.edu/electrical/profiles/kentesari.html)
+  - [Google Scholar](https://scholar.google.com/citations?user=_ZYmEFEAAAAJ&hl)
 - [ELENCO kit](https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html)
 
 ## Course Description
