@@ -1,20 +1,20 @@
 # Radio-Entesari-ECEN489
 
-Project Description
+##Project Description
 - Soldering, testing dynamically and statically, and verifying superheterodyne AM/FM receiver in conjunction with ECEN-489, Wireless Communications course by Dr. Entesari at Texas A&amp;M, and  the ELENCO AM/FM SUPERHET RADIO kit https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html 
 
-Key Takeaways 
+##Key Takeaways 
 - Lab Practicals
   - Soldering approximately 50 total through hole components across AM/FM receiever signal paths, potentiometer volume controller/switch, gang capacitor tuners, and antennas
   
-RF Fundamentals
+##RF Fundamentals
  - Noise Figure
     - Gaussian noise that is non-linear in nature and dominated by the first block of the design. For this reason, in some RF receiver topologies a LNA (Low noise amplifer is used to optimize overall noise figure, while boosting signal strength at the input)
 - RLC filtering circuit and transformer impedance transformations
   - Q-factor
   - Bandwidth
   
- Design Tradeoffs
+##Design Tradeoffs
     - Foster Seely vs. Ratio Detector
     - Various circuit methods of AM / FM demodulation
     - Problem of filtering image at output of mixer stage
