@@ -53,7 +53,7 @@ Antennas ( for receiving signal wirelessly )
 
 I wanted to offer my extended thanks to Dr. Entesari. I know you were doing a lot of work to publish and make advancements in your research: mmWave technology, traveling + family, and recovering from Covid-19 recently. Your help during office hours was invaluable and motivated inspiration for future investigation into challenging work RF engineers are a part of.
 
-![final](https://user-images.githubusercontent.com/61887299/236639050-de10c1af-e605-443e-9cd5-8f431a7979bd.jpg)
+![final](https://user-images.githubusercontent.com/61887299/236639110-32417956-10d4-471c-b96b-f9c91d926950.jpg)
 
   
   
