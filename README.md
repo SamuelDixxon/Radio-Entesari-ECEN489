@@ -32,9 +32,9 @@
 - RLC Resonators
 -   High [Q factor](https://en.wikipedia.org/wiki/Q_factor) selectivity to tune channel 
 - Antennas
--   AM Antenna utilizes ferrite core and magnetic resonance  
--     AM RF is lower with a longer wavelength so impractical to implement with monopole antenna and must use ferrite core with magentic design
--   FM Antenna utilizes monopole topology
--     FM RF is higher with a lower wavelength so practical to implement with monpole antenna for receiving RF signals across air
+  - AM Antenna utilizes ferrite core and magnetic resonance  
+    - AM RF is lower with a longer wavelength so impractical to implement with monopole antenna and must use ferrite core with magentic design
+  - FM Antenna utilizes monopole topology
+    - FM RF is higher with a lower wavelength so practical to implement with monpole antenna for receiving RF signals across air
   
   
