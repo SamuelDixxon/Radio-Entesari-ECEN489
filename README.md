@@ -25,7 +25,7 @@
     - Bandwidth
   
 ## Design Considerations
-- Discriminator ( differentiation to receive FM modulated signal information into amplitude )
+Discriminator ( differentiation to receive FM modulated signal information into amplitude )
 - [Foster Seeley](https://en.wikipedia.org/wiki/Foster%E2%80%93Seeley_discriminator) vs. [Ratio Detector](https://en.wikipedia.org/wiki/Ratio_detector)
 - Mixing with Oscillator
 - Problem of [filtering image frequency](https://en.wikipedia.org/?title=Image_frequency&redirect=no) at output of mixer stage (interference)
