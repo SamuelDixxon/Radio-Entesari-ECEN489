@@ -25,12 +25,16 @@
     - Bandwidth
   
 ## Design Considerations
-- [Foster Seeley](https://en.wikipedia.org/wiki/Foster%E2%80%93Seeley_discriminator) vs. [Ratio Detector](https://en.wikipedia.org/wiki/Ratio_detector)
-- Problem of [filtering image frequency](https://en.wikipedia.org/?title=Image_frequency&redirect=no) at output of mixer stage (interference)
-- High [Q factor](https://en.wikipedia.org/wiki/Q_factor) selectivity to tune channel 
-- AM Antenna utilizes ferrite core and magnetic resonance  
-  - AM RF is lower with a longer wavelength so impractical to implement with monopole antenna and must use ferrite core with magentic design
-- FM Antenna utilizes monopole topology
-  - FM RF is higher with a lower wavelength so practical to implement with monpole antenna for receiving RF signals across air
+- Discriminator ( differentiation to receive FM modulated signal information into amplitude )
+-   [Foster Seeley](https://en.wikipedia.org/wiki/Foster%E2%80%93Seeley_discriminator) vs. [Ratio Detector](https://en.wikipedia.org/wiki/Ratio_detector)
+- Mixing with Oscillator
+-   Problem of [filtering image frequency](https://en.wikipedia.org/?title=Image_frequency&redirect=no) at output of mixer stage (interference)
+- RLC Resonators
+-   High [Q factor](https://en.wikipedia.org/wiki/Q_factor) selectivity to tune channel 
+- Antennas
+-   AM Antenna utilizes ferrite core and magnetic resonance  
+-     AM RF is lower with a longer wavelength so impractical to implement with monopole antenna and must use ferrite core with magentic design
+-   FM Antenna utilizes monopole topology
+-     FM RF is higher with a lower wavelength so practical to implement with monpole antenna for receiving RF signals across air
   
   
