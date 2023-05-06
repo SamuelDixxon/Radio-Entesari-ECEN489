@@ -1,5 +1,9 @@
 # [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiever 
 
+![20230502_182059](https://user-images.githubusercontent.com/61887299/236638281-1565b516-8f68-4be4-b748-63b763d3b530.jpg)
+AM/FM Superhet Radio Receiver
+
+
 ## Credits
 - Dr. Entesari
   - [Tamu Page](https://engineering.tamu.edu/electrical/profiles/kentesari.html)
