@@ -34,7 +34,7 @@ Downconverter ( mixer / oscillation to get sum and difference of RF and LO frequ
 - Problem of [filtering image frequency](https://en.wikipedia.org/?title=Image_frequency&redirect=no) at output of mixer stage (interference)
 
 
-RLC Resonators ( for channel selection and filtering )
+[RLC Resonators](https://en.wikipedia.org/wiki/RLC_circuit) ( for channel selection and filtering )
 -   High [Q factor](https://en.wikipedia.org/wiki/Q_factor) selectivity to tune channel 
 
 
