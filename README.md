@@ -25,13 +25,13 @@
     - Bandwidth
   
 ## Design Considerations
-Discriminator ( differentiation to receive FM modulated signal information into amplitude )
+- Discriminator ( differentiation to receive FM modulated signal information into amplitude )
 - [Foster Seeley](https://en.wikipedia.org/wiki/Foster%E2%80%93Seeley_discriminator) vs. [Ratio Detector](https://en.wikipedia.org/wiki/Ratio_detector)
-Mixing with Oscillator
+- Mixing with Oscillator
 - Problem of [filtering image frequency](https://en.wikipedia.org/?title=Image_frequency&redirect=no) at output of mixer stage (interference)
-RLC Resonators
+- RLC Resonators
 -   High [Q factor](https://en.wikipedia.org/wiki/Q_factor) selectivity to tune channel 
-Antennas
+- Antennas
 - AM Antenna utilizes ferrite core and magnetic resonance  
   - AM RF is lower with a longer wavelength so impractical to implement with monopole antenna and must use ferrite core with magentic design
 - FM Antenna utilizes monopole topology
