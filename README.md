@@ -20,7 +20,7 @@
 - RF Fundamentals
  - Noise Figure
     - Gaussian noise that is non-linear in nature and dominated by the first block of the design. For this reason, in some RF receiver topologies a LNA (Low noise amplifer is used to optimize overall noise figure, while boosting signal strength at the input)
-- RLC filtering circuit and transformer impedance transformations
+ - RLC filtering circuit and transformer impedance transformations
   - Q-factor
   - Bandwidth
   
