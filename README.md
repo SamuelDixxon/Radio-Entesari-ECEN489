@@ -1,7 +1,7 @@
 # [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiever 
 
-![20230502_182059](https://user-images.githubusercontent.com/61887299/236638281-1565b516-8f68-4be4-b748-63b763d3b530.jpg)
-AM/FM Superhet Radio Receiver
+![20230502_182059](![image](https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png)
+
 
 
 ## Credits
