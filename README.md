@@ -1,5 +1,8 @@
-# AM/FM [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) Radio Entesari ECEN 489 with [ELENCO kit](https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html)
+# [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiever 
 
+## Credits
+- Dr. Entesari 
+- [ELENCO kit](https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html)
 
 ## Course Description
 
