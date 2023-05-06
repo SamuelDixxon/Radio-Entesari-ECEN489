@@ -1,5 +1,5 @@
 # Demonstrations for the radio project
-## AM
+### AM
 [AM Final Demo](https://drive.google.com/file/d/14gO0EzR5h764kd9Q6xKYLrMYkEiZBEAV/view?usp=sharing)
 - Demonstrating wireless receiver and demodulation capability from a local AM station
 
@@ -12,7 +12,7 @@
 - Demonstrating wireless receiver for AM through waveform generator wire loop above the ferrite core antennta with RF of 1 MHz, modulation index 80%, and 400 Hz modulated tone
 
 
-## FM
+### FM
 [FM Final Demo](https://drive.google.com/file/d/18_CUNgon1a2P1_d5quhZg_Hcn2Miy2Bw/view?usp=sharing)
 - Demonstrating wireless receiver and demodulation capability from a local FM station
 
