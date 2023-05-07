@@ -51,8 +51,9 @@
   
 ## Design Considerations
 
-Discriminator ( differentiation to receive FM modulated signal information into amplitude )
+Discriminator/Detectors ( differentiation to receive FM modulated signal information into amplitude )
 - [Foster Seeley](https://en.wikipedia.org/wiki/Foster%E2%80%93Seeley_discriminator) vs. [Ratio Detector](https://en.wikipedia.org/wiki/Ratio_detector)
+- [Envelop Detector](https://en.wikipedia.org/wiki/Envelope_detector)
 
 
 Downconverter ( mixer / oscillation to get sum and difference of RF and LO frequencies to obtain IF frequency )
