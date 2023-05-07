@@ -1,4 +1,4 @@
-# [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiever 
+# [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiver 
 
 ## Finalized Circuit
 ![image](https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png)
@@ -19,6 +19,13 @@
 ## Project Description
 - Soldering, testing dynamically and statically, and verifying superheterodyne AM/FM receiver in conjunction with ECEN-489, Wireless Communications course by Dr. Entesari at Texas A&amp;M, and  the ELENCO AM/FM SUPERHET RADIO kit https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html 
 
+## Glossary of Acronyms
+- RF : Radio Frequency - The frequency at which the signal is transmitted through the medium / channel (air)
+- IF : Intermediate Frequency - The frequency at which teh signal is processed and amplified in the radios electronics ( typically significantly lower than the RF )
+- LO : Local Oscillator - a radio control block needed to down convert the signal from RF to IF ( interesting trigonemtric identity and problem associated here, but more on that later )
+- AFC : Automatic Frequency Control - a control feedback methodology for removing variations in the open loop control path from transmitter to receiver for FM receivers
+- AGC : Automatic Gain Control - a control feedback methodology for removing variations in the open loop control path from transmitter to receiver for AM receivers
+
 ## Key Takeaways 
 - Lab Practicals
   - Soldering approximately 50 total through hole components across AM/FM receiver signal paths, potentiometer volume controller/switch, gang capacitor tuners, and conifugirng/tuning two different antennas for AM/FM respective receivers
@@ -28,6 +35,18 @@
   - RLC filtering circuit and transformer impedance transformations
     - Q-factor
     - Bandwidth
+    - Resonance
+    - Maximum Power Transfer
+  - Feedback Control
+    - For control systems the need to remove uncertainties in the forward path ( antenna to speaker ) is pivotal, the methodology of removing uncertainty is dependent on the way the information is encoded into the analog signal
+    - A potential cause of uncertainty is the distance the transmitter is from the receiver and the corresponding energy that the signal will consequently have coming into the antenna
+      - To account for this , the kit used a design elemenent known as a varactor, which adjusts for the variations in a feedback loop and creates a robust controlled output
+    - Automatic Frequency Control (AFC)
+      - For FM the information is in frequency, so an Automatic Frequency Control block must be implemented to remove uncertainties
+          - When the frequency was higher the voltage on the varactor would decrease and when the frequency was lower the voltage would increase, which would adapt the local oscillator (LO) operating frequency to keep the IF (Intermediate Frequency) constant
+    - Automatic Gain Control (AGC)
+      - For AM the information is in frequency, so an Automatic Gain Control(AGC) block must be implemented to remove uncertainties
+      - 
   
 ## Design Considerations
 
