@@ -1,13 +1,13 @@
 # [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiver 
 
 ## Finalized Circuit
-![image](https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png)
+![image](https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png){style="display: block; margin: 0 auto"}
 
 
 
 ## Credits
 - Dr. Entesari
-  - [Tamu Page](https://engineering.tamu.edu/electrical/profiles/kentesari.html) { style="display: block; margin: 0 auto" }
+  - [Tamu Page](https://engineering.tamu.edu/electrical/profiles/kentesari.html)
   - [Google Scholar](https://scholar.google.com/citations?user=_ZYmEFEAAAAJ&hl)
 - [ELENCO kit](https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html)
 
