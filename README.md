@@ -74,6 +74,6 @@ Antennas ( for receiving signal wirelessly )
 
 I wanted to offer my extended thanks to Dr. Entesari. I know you were doing a lot of work to publish and make advancements in your research: mmWave technology, traveling + family, and recovering from Covid-19 recently. Your help during office hours was invaluable and motivated inspiration for future investigation into challenging work RF engineers are a part of.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png">
+  <img src="https://user-images.githubusercontent.com/61887299/236639110-32417956-10d4-471c-b96b-f9c91d926950.jpg">
   <br>Image 1: Dr. Entesari Spring 2023 Semester 
 </p>
