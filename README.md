@@ -2,7 +2,9 @@
 
 ## Finalized Circuit
 ![image](https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png">
+</p>
 
 
 ## Credits
@@ -12,11 +14,8 @@
 - [ELENCO kit](https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html)
 
 ## Course Description
-
-
 <p align="center">
-![image](https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png)
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png">
+  <img src="https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png">
 </p>
 
 ## Project Description
