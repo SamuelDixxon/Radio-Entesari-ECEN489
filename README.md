@@ -7,7 +7,7 @@
 
 ## Credits
 - Dr. Entesari
-  - [Tamu Page](https://engineering.tamu.edu/electrical/profiles/kentesari.html)
+  - [Tamu Page](https://engineering.tamu.edu/electrical/profiles/kentesari.html) { style="display: block; margin: 0 auto" }
   - [Google Scholar](https://scholar.google.com/citations?user=_ZYmEFEAAAAJ&hl)
 - [ELENCO kit](https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html)
 
@@ -47,7 +47,7 @@
           - When the frequency was higher the voltage on the varactor would decrease and when the frequency was lower the voltage would increase, which would adapt the local oscillator (LO) operating frequency to keep the IF (Intermediate Frequency) constant
     - Automatic Gain Control (AGC)
       - For AM the information is in frequency, so an Automatic Gain Control(AGC) block must be implemented to remove uncertainties
-      - 
+     
   
 ## Design Considerations
 
