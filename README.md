@@ -1,9 +1,9 @@
 # [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiver 
 
 ## Finalized Circuit
-![image](https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png">
+  Figure 1: Finalized AM/FM Superheteodyne Circuit from ELENCO kit
 </p>
 
 
