@@ -1,11 +1,4 @@
-# [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiver 
-
-## Finalized Circuit
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png">
-  <br>Figure 1: Finalized AM/FM Superheteodyne Circuit from ELENCO kit
-</p>
-
+# [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiver Project
 
 ## Credits
 - Dr. Entesari
@@ -20,6 +13,10 @@
 
 ## Project Description
 - Soldering, testing dynamically and statically, and verifying superheterodyne AM/FM receiver in conjunction with ECEN-489, Wireless Communications course by Dr. Entesari at Texas A&amp;M, and  the ELENCO AM/FM SUPERHET RADIO kit https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png">
+  <br>Figure 1: Finalized AM/FM Superheteodyne Circuit from ELENCO kit
+</p>
 
 ## Glossary of Terms and Acronyms for common RF design blocks and terms
 - <ins>Radio Frequency</ins> **(RF)** - The frequency at which the signal is transmitted through the medium / channel (air)
