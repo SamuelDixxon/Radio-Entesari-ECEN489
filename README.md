@@ -1,7 +1,7 @@
 # [Superheterodyning](https://en.wikipedia.org/wiki/Superheterodyne_receiver) AM/FM Radio Receiver 
 
 ## Finalized Circuit
-![image](https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png){style="display: block; margin: 0 auto"}
+![image](https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png)
 
 
 
@@ -13,8 +13,11 @@
 
 ## Course Description
 
-![image](https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png)
 
+<p align="center">
+![image](https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png)
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png">
+</p>
 
 ## Project Description
 - Soldering, testing dynamically and statically, and verifying superheterodyne AM/FM receiver in conjunction with ECEN-489, Wireless Communications course by Dr. Entesari at Texas A&amp;M, and  the ELENCO AM/FM SUPERHET RADIO kit https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html 
