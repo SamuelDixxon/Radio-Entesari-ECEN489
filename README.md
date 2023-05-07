@@ -9,14 +9,14 @@
 ## Course Description
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png">
-  <br>Figure 2: Course Flyer provided by Electrical Engineering Department at Texas A&M College Station
+  <br>Figure 1 Course Flyer provided by Electrical Engineering Department at Texas A&M College Station
 </p>
 
 ## Project Description
 - Soldering, testing dynamically and statically, and verifying superheterodyne AM/FM receiver in conjunction with ECEN-489, Wireless Communications course by Dr. Entesari at Texas A&amp;M, and  the ELENCO AM/FM SUPERHET RADIO kit https://shop.elenco.com/consumers/am-fm-radio-kit-combo-ic-transistor.html 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61887299/236638341-f4ba2f65-112b-481f-ba2a-865e8f8638f5.png">
-  <br>Figure 1: Finalized AM/FM Superheteodyne Circuit from ELENCO kit
+  <br>Figure 2: Finalized AM/FM Superheteodyne Circuit from ELENCO kit
 </p>
 
 ## Glossary of Terms and Acronyms for common RF design blocks and terms
@@ -73,8 +73,7 @@ Antennas ( for receiving signal wirelessly )
 ## Regards
 
 I wanted to offer my extended thanks to Dr. Entesari. I know you were doing a lot of work to publish and make advancements in your research: mmWave technology, traveling + family, and recovering from Covid-19 recently. Your help during office hours was invaluable and motivated inspiration for future investigation into challenging work RF engineers are a part of.
-
-![final](https://user-images.githubusercontent.com/61887299/236639110-32417956-10d4-471c-b96b-f9c91d926950.jpg)
-
-  
-  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61887299/236608637-a8c97562-3681-472e-aec6-9c9105861309.png">
+  <br>Image 1: Dr. Entesari Spring 2023 Semester 
+</p>
